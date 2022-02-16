@@ -1,4 +1,5 @@
 # Flight Ticket Architecture Description 
+
 ## Application View
 * Public Flight Ticketing Apps : PC(web) and Mobile(web app)
 * Private Back-Office Apps : PC(web)
