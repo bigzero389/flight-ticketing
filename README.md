@@ -1,6 +1,8 @@
 # Flight Ticket Architecture Description 
 
 ## Application View
+<img width="1257" alt="image" src="https://user-images.githubusercontent.com/16658223/154237255-04dc0492-067c-42ec-97d1-83e07576e374.png">  
+
 * Public Flight Ticketing Apps : PC(web) and Mobile(web app)
 * Private Back-Office Apps : PC(web)
 * API : API Gateway for interface
@@ -39,6 +41,8 @@
 * Search Engine : Journey Searching
 
 ## Deployment View
+<img width="1238" alt="image" src="https://user-images.githubusercontent.com/16658223/154237538-6ca20c28-707e-485c-b8dc-a531ca2e16ab.png">
+
 ### Public Flight Ticketing Apps : AIR
 * Nginx : PC - 7080, Mobile - 7090
 * Tomcat multi-container : PC - air_pc.war - 7081, Mobile - air_mo.war - 7091 
